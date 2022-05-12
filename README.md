@@ -252,7 +252,7 @@ print(my_set)
 You might ask why bother with Set Comprehension when we could do this: `set(nums)`. The answer is because of [Conditional Comprehensions](#conditional-comprehensions)
 
 ### 2D Matrix
-flatted index from 2D to a list:
+Flat index from 2D to the index of a list:
 
 ```python
 row = len(grid)
